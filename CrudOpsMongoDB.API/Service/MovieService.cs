@@ -14,6 +14,8 @@ namespace CrudOpsMongoDB.API.Service
             var database =  client.GetDatabase(settings.DatabaseName);
             _movieColl =  database.GetCollection<MoviesColl>(settings.MoviesCollectionName);
         }
+		
+		//To fetch all the movie details
         public async Task<ResponseMessage> GetAllMoviesAsync()
         {
             ResponseMessage response = new();
