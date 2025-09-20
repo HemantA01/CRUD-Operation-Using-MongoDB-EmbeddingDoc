@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\controllers\\moviecollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\controllers\\moviecollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\service\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\service\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\models\\moviereviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\models\\moviereviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\models\\moviescoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\models\\moviescoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\models\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\models\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\models\\imoviesdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\models\\imoviesdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|d:\\hemant4\\web api 1\\web api crud operation with mongodb\\webapicrudopswithmongodb2\\crudopsmongodb.api\\models\\moviesdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5203C4D7-FB94-405B-9008-30C420526AF1}|CrudOpsMongoDB.API\\CrudOpsMongoDB.API.csproj|solutionrelative:crudopsmongodb.api\\models\\moviesdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 444,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesColl.cs",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\MoviesColl.cs",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\Models\\MoviesColl.cs",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\MoviesColl.cs",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\Models\\MoviesColl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T13:24:52.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\appsettings.json",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\appsettings.json",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T14:12:51.425Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMoviesDBSettings.cs",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\IMoviesDBSettings.cs",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\Models\\IMoviesDBSettings.cs",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\IMoviesDBSettings.cs",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\Models\\IMoviesDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:20:34.174Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoviesDBSettings.cs",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\MoviesDBSettings.cs",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\Models\\MoviesDBSettings.cs",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\MoviesDBSettings.cs",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\Models\\MoviesDBSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:20:43.147Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Service\\IMovieService.cs",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\Service\\IMovieService.cs",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Service\\IMovieService.cs",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\Service\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:25:04.799Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\Service\\MovieService.cs",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Service\\MovieService.cs",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\Service\\MovieService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwGkAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:25:34.213Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\Models\\ResponseMessage.cs",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\ResponseMessage.cs",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\Models\\ResponseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:29:27.673Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieCollController.cs",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Controllers\\MovieCollController.cs",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\Controllers\\MovieCollController.cs",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Controllers\\MovieCollController.cs",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\Controllers\\MovieCollController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAwJsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:05:26.663Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Program.cs",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\Program.cs",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Program.cs",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:12:05.195Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieReviews.cs",
+              "DocumentMoniker": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\MovieReviews.cs",
+              "RelativeDocumentMoniker": "CrudOpsMongoDB.API\\Models\\MovieReviews.cs",
+              "ToolTip": "D:\\HEMANT4\\Web API 1\\Web API Crud Operation with MongoDB\\WebApiCrudOpsWithMongoDB2\\CrudOpsMongoDB.API\\Models\\MovieReviews.cs",
+              "RelativeToolTip": "CrudOpsMongoDB.API\\Models\\MovieReviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:33:36.928Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

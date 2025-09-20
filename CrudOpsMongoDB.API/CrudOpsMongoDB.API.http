@@ -1,0 +1,6 @@
+@CrudOpsMongoDB.API_HostAddress = http://localhost:5072
+
+GET {{CrudOpsMongoDB.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
